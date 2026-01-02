@@ -15,5 +15,6 @@ This is an academic simulation project, not intended to be a production blockcha
 > - Scaffold simulation study
 > - Setup latex
 > - Select Papers for review
+
 > **Day 2**:
-> - 
+> - Literature Review
