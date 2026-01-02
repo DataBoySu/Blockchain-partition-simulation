@@ -1,4 +1,4 @@
-# Blockchain Network Partition Attack —> Plan of Action
+# Blockchain Network Partition Simulation —> Plan of Action
 
 1. This repository shall contain a small-scale, abstract simulation for studying network partition attacks against longest-chain proof-of-work blockchains.
 
@@ -8,8 +8,8 @@ No networking, no async, and no message-level simulation — this is an abstract
 
 **3. Scope**
 
-- **Single deliverable:** a concise simulation and a 5–6 page writeup. No additional features will be added beyond what is specified here.
-- **Academic framing:** a small-scale simulation (N on the order of tens), intended to support experimental claims about partition-induced divergence and recovery.
+- **Single deliverable:** a concise simulation and a 5–6 page writeup. No additional features will be added beyond what I have specified here.
+- **Academic framing:** a small-scale simulation (N on the order of tens), intended to support my experimental claims about partition-induced divergence and recovery.
 
 **3.1 Model**
 
@@ -31,17 +31,17 @@ We record the following metrics:
 - **Time to convergence:** number of ticks from reconnection until the network reaches a single common longest chain (or a defined convergence threshold).
 - **Max divergence between components:** maximum difference in chain length (or best-chain cumulative work) observed between the two components during the partition.
 
-Each metric is logged per-run and suitable for CSV export and basic plotting (histogram/time-series/boxplots) to support experimental claims.
+Each metric will be logged per-run and suitable for CSV export and basic plotting (histogram/time-series/boxplots) to support my experimental claims.
 
 **3.3 Code**
 
-- **Single Python script:** a single script (e.g., `simulate.py`) will contain the model and runner. 
+- **Single Python script:** a single script (e.g., `simulate.py`) will contain the model and runner.
 
 Responsibilities:
 
 - Define `Node` and `Network` abstractions (lightweight, deterministic state machines).
 - Implement the discrete-time tick loop, Poisson mining per node, chain updates under the longest-chain rule, partition and reconnection events.
-- Collect and log the metrics listed above.
+- To Collect and log the metrics I listed above.
 - Output results as CSV and optionally emit simple Matplotlib plots.
 
 - **Implementation constraints:**
