@@ -9,3 +9,11 @@ The project consists of:
 - A technical report describing the model, experiments, and results.
 
 This is an academic simulation project, not intended to be a production blockchain implementation.
+
+
+> **Day 1**:
+> - Scaffold simulation study
+> - Setup latex
+> - Select Papers for review
+> **Day 2**:
+> - 
