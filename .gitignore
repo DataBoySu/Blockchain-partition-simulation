@@ -125,7 +125,6 @@ dmypy.json
 *.toc
 *.lof
 *.lot
-*.pdf
 *.dvi
 *.ps
 
