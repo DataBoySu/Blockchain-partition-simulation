@@ -32,4 +32,11 @@ Unlike the theoretical, 51% limit, paper proposes much lower 25% limit, which th
 
 ### Statistics
 
-1. Bitcoin has **12B
+1. Bitcoin has **$12B** market cap as of January 2014.
+
+
+### References
+
+> [!IMPORTANT]
+> Reference [9](http://bitcoincharts.com/bitcoin/) is unreachable.
+> 
