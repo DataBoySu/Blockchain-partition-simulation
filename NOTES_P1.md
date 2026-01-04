@@ -1,4 +1,4 @@
-## Majority is not Enough, Bitcoin mining is vulnerable
+## Majority is not Enough, Bitcoin mining is vulnerable by Eyal and Sirer
 
 > **Assertion**: "Conventional wisdom asserts that the mining protocol is incentive-
 compatible and secure against colluding minority groups, that is, it in-
