@@ -10,6 +10,9 @@ The project consists of:
 
 This is an academic simulation project, not intended to be a production blockchain implementation.
 
+> [!NOTE]
+> I will be using the 3-pass approach for going over the papers \
+> Cite: [How to Read a Paper by S. Keshav](keshav@uwaterloo.ca)
 
 > **Day 1**:
 > - Scaffold simulation study
