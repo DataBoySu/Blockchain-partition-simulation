@@ -24,3 +24,7 @@ Paper proposes a "practical" modification to the Bitcoin network that would prot
 
 **Proposal**: Prohibit selfish mining by groups that command leaa than 1/4 of the resource.
 
+> [!IMPORTANT]
+> **Reality**: Reliable discovery of selfish mining is hard at small scale. Even now, there is no protocol-level ban for such miners.\
+> Faster block propagation, mining-pool policies, socio-economic pressure etc. 
+> 
