@@ -16,5 +16,11 @@ This is an academic simulation project, not intended to be a production blockcha
 > - Setup latex
 > - Select Papers for review
 
-> **Day 2**:
-> - Literature Review
+> **Day 2**: Literature Review
+> - Majority is vulnerable: Nakamoto consensus is inherently not safe? by *Eyal and Sirer*
+> - Information Propagation in Bitcoin by *Decker and Roger*
+> - Blockchain protocols in async networks by *Shelat, Seeman*
+
+> **Day 3**: Analysis of Day 2
+> - Paper 1: Majority is not enough; Blockchain is vulnerable by *Eyat and Sirer* \
+> [Notes](NOTES.md)
