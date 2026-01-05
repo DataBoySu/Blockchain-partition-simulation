@@ -39,4 +39,4 @@ Earlier miners used CPUs, around 2014, ASIC machines gained significance, these 
 ## Surrounding Context
 -  [Kroll, J.A., Davey, I.C., Felten, E.W.: The economics of Bitcoin mining or, Bitcoin in the
 presence of adversaries. In: Workshop on the Economics of Information Security (2013)] - does not take into account mining strategies like block withholding etc.
-- 
+- Wide assumptions surrounding Bitcoin was that %x group cannot affect the chain more than %x.

@@ -10,4 +10,6 @@
 pools.
 - Paper assumes colluding mining pools have yet (2014), followed protocols.
 - Paper comes to a conclusion, that the "selfish mining" can be applied to any global log blockchain network.
-- 
+- Paper comes to a conclusion that -  Over 2/3 of the par-
+ticipants need to be honest to protect against selﬁsh mining, under the most
+optimistic of assumptions
