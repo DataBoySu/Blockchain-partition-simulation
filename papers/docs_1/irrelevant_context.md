@@ -4,3 +4,5 @@
 - Paper discusses risks of centralization due to selfish mining.
 - Bitcoin market cap (~$12B in Jan 2014) cited for motivation.
 - FLOPS-equivalent comparisons used rhetorically.
+
+Nonce: Random 32-bit number

@@ -35,10 +35,6 @@ Unlike the theoretical, 51% limit, paper proposes much lower 25% limit, which th
 1. Bitcoin has **$12B** market cap as of January 2014.
 2. Bitcoin hash rate in 2014, January was around 
 
-## Introduction
-
-- 
-
 ### References
 
 > [!IMPORTANT]
