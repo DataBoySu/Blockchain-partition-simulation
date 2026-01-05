@@ -1,4 +1,4 @@
-## Majority is not Enough, Bitcoin mining is vulnerable by Eyal and Sirer
+# Majority is not Enough, Bitcoin mining is vulnerable by Eyal and Sirer
 
 > **Assertion**: "Conventional wisdom asserts that the mining protocol is incentive-
 compatible and secure against colluding minority groups, that is, it in-
@@ -33,7 +33,11 @@ Unlike the theoretical, 51% limit, paper proposes much lower 25% limit, which th
 ### Statistics
 
 1. Bitcoin has **$12B** market cap as of January 2014.
-2. 
+2. Bitcoin hash rate in 2014, January was around 
+
+## Introduction
+
+- 
 
 ### References
 
