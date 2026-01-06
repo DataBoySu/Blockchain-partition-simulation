@@ -40,4 +40,4 @@ Unlike the theoretical, 51% limit, paper proposes much lower 25% limit, which th
 > [!IMPORTANT]
 > Reference [9](http://bitcoincharts.com/bitcoin/) is unreachable.
 > Reference [25](https://freedom-to-tinker.com/blog/randomwalker/why-the-cornell-paper-on-bitcoin-mining-is-important/) is unreachable.
-> 
+>
