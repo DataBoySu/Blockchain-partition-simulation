@@ -9,7 +9,9 @@ IF. a system suffers from network attack, it can prioritize either:
 1. Availability but forgoes Consistency 
 2. Consistency but forgoes Availability
 
-However, CAP theorem assumes ideal 
+However, CAP theorem assumes ideal state of network and simple model of Consistency and Availability which is rare, no, never seen in real-world networks.
+
+
 
 
 
